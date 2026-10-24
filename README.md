@@ -8,7 +8,7 @@ This project analyzes the U.S. National Park Service (NPS) "thingstodo" dataset.
 ## Dataset
 The raw data directly pulled from the API is saved as `raw_todo.csv`, and the final cleaned dataset used for exploratory data analysis is saved as `eda_todo.csv`.
 
-Primary Data Source: [NPS thingstodo](https://www.nps.gov/subjects/developer/api-documentation.htm)
+Primary Data Source: [NPS thingstodo](https://www.nps.gov/subjects/developer/api-documentation.htm).
 
 For detailed descriptions of all variables in our final dataset, please refer to the [Data Description](data/data_description.md).
 
@@ -40,5 +40,5 @@ For detailed descriptions of all variables in our final dataset, please refer to
 ├──.gitignore
 ├── LICENSE
 ├── README.md
-└── data1030project.yml
+└── environment.yml
 
